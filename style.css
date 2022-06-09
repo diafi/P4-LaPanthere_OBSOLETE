@@ -362,12 +362,24 @@ a:hover {
     z-index: 2;
 }
 /* Update */
+.mg-md span{
+    font-size: 20px;
+    font-weight: bold;
+}
+.text-center em{
+    font-size: 20px;
+    
+}
 #apropos span{
     font-size: 30px;
     font-weight: bold;
 }
 .bloc-lg span{
     font-size: 30px;
+    font-weight: bold;
+}
+.bloc-lg em{
+    color: white;
     font-weight: bold;
 }
 .bloc-lg p {
